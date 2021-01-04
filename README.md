@@ -21,12 +21,14 @@ In brief, here are the areas I want to explore:
 
 *I want to compare an OOP approach to a purely procedural approach. How different is it, implementing graphics pipelines in C, as opposed to C++? 
 
-*I also want to write it in Common Lisp. There are many awe inspiring things about the language and I am keen to play about with it Common Lisp too. In all probability it will be slow, I have no idea yet, but it sure as hell will be fun. How could CLOS (Common Lisp Object System) be used? To what extent can we leveredge macro programming alla Let Over Lambda? 
+*I want to explore and play with some optimisations that were all the rage way back when. Think Black Book. Are they relevant now? Could they/do they still work?
 
 *I want to write my own renderer, but also experiment with differing abstractions and design choices too. This is an engineering discipline after all, and engineering trade offs will have to be made. I just want to make them knowing why, and what the consequences are.
 
 
 This is an itch that needs to be scratched, and I'm taking the biggest scratching stick I can get my hands on. 
+
+
 
  
 
